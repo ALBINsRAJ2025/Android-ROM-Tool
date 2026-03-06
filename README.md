@@ -1,5 +1,7 @@
 # Android ROM Image Tool v3.0
 
+An Standalone Terminal Tool to unpack repack android imgs easily and automated
+
 Ubuntu 24+ only.
 
 ## Run
